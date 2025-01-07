@@ -59,7 +59,7 @@ header ul {
     background-color: antiquewhite;
     color: white;
     height: 95vh;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(images/banner.png);
+    background-image: url(images/banner.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
